@@ -11,3 +11,12 @@ public/components
 .idea/workspace.xml
 .idea/modules.xml
 .idea/vcs.xml
+
+/.idea
+/.idea/scopes
+/.idea/feature.iml
+/.idea/.name
+/.idea/encodings.xml
+/.idea/workspace.xml
+/.idea/modules.xml
+/.idea/vcs.xml
