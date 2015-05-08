@@ -11,7 +11,9 @@
 		"adamwathan/eloquent-oauth": "~5.0",
 		"rtconner/laravel-tagging": "^1.0",
 		"jenssegers/date": "^3.0",
-		"predis/predis": "~1.0"
+		"predis/predis": "~1.0",
+		"messaged/php-mime-mail-parser": "~1.0",
+		"php-mime-mail-parser/php-mime-mail-parser": "^2.0"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "~4.0",
