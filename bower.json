@@ -1,0 +1,33 @@
+{
+  "name": "feature",
+  "version": "1.0.0",
+  "authors": [
+    "Florian Wartner <f.wartner@avanalabs.de>"
+  ],
+  "description": "Uservoice like feature request application",
+
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+
+  "keywords": [
+    "feature",
+    "laravel",
+    "avana",
+    "Labs",
+    "uservoice",
+    "request"
+  ],
+  "license": "MIT",
+  "homepage": "http://feature.avanalabs.de",
+
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Appture
+        psr4_prefix: Appture
+        src_path: app
