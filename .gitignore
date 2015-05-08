@@ -12,7 +12,7 @@ public/components
 .idea/modules.xml
 .idea/vcs.xml
 
-/.idea
+/.idea/*
 /.idea/scopes
 /.idea/feature.iml
 /.idea/.name
